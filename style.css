@@ -4,14 +4,7 @@
 } */
 
 body {
-  background: linear-gradient(
-    #adff2f,
-    #2f6aff,
-    #a8326b,
-    #cf1111,
-    #c95f0e,
-    #000000
-  );
+  background: #6fbf84;
   height: 100vh;
 }
 
